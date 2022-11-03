@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1059149998620",
+    "project_id": "roadbook-bd",
+    "storage_bucket": "roadbook-bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059149998620:android:fae5b3b3ffd42789eccdd9",
+        "android_client_info": {
+          "package_name": "com.istiaq66.roadbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059149998620-klo45ukd55eoruovn96gcsr1jhejpoql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM9SGZn3cpVquBcBJG4Gn9LjJRhmPOSxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059149998620-klo45ukd55eoruovn96gcsr1jhejpoql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

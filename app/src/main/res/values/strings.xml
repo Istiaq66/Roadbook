@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Roadbook</string>
+    <string name="link">By creating an account you agree to the <a href="https://www.facebook.com/RoadBookBD/">terms of use</a> and our <a href="https://www.facebook.com/RoadBookBD/">privacy &amp; policy</a></string>
+    <string name="view_more"><a href="https://www.accudriver.io/rules/BD">View more</a></string>
+    <string name="stop_sign">The STOP sign is the only octagon-shaped (8-sided) sign you see on the highway. At an intersection with a STOP sign, you must stop completely, check for pedestrians and cross traffic to clear the intersection before you go again. Slowing down without coming to a full stop is illegal.</string>
+    <string name="no_truck">Operators of trucks, bicycles, and pedestrians may not use roadways where these signs are posted.</string>
+    <string name="no_u_turn">This sign prohibits U-turns. Do not make a complete turn to go in the opposite direction.</string>
+    <string name="no_right_turn">This sign indicates right turns are prohibited. Do not make a right turn at this intersection.</string>
+    <string name="no_left_turn">This sign indicates left turns are prohibited. Do not make a left turn at this intersection.</string>
+    <string name="no_park">You may not park a vehicle at locations where this sign is posted</string>
+    <string name="divided">This sign means the road you are on intersects with a divided highway. The divided highway is really two, one-way roadways that are separated by a median or a guide rail. At the first roadway, you can only turn right, and at the second roadway, you can only turn left</string>
+    <string name="noti">You’re all caught up! We will notify you when something exciting happen.</string>
+</resources>
